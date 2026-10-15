@@ -1,0 +1,3 @@
+agent-name: skill-skeleton-generator
+contact: https://github.com/zhaoxinghua09-cell/skill-skeleton-generator
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
